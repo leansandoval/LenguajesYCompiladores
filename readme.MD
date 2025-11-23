@@ -1,6 +1,6 @@
-# Plantilla para TP Integrador usando Flex y Bison (C)
+## Plantilla para TP Integrador usando Flex y Bison (C)
 
-## Prerequisitos. 
+### Prerequisitos. 
 
 Para poder usar esta plantilla deberá:
 
@@ -10,8 +10,7 @@ Para poder usar esta plantilla deberá:
 
 3. Instalar [gcc](https://gcc.gnu.org/)
 
-
-### Windows
+#### Windows
 
 Descargue los instaladores para Windows de las siguientes páginas:
 
@@ -23,7 +22,7 @@ Descargue los instaladores para Windows de las siguientes páginas:
 * Tanto para los binarios instalados flex y bison, es recomendable instalarlos en C:\GnuWin32 y luego agregar "C:\GnuWin32\bin" en variables de entorno -> variables del sistema -> editar variable path y agregar a la lista.
 * Lo mismo para gcc, agregar el path donde sea instalado (ej: C:\MinGW\bin) a las variables del sistema en la variable path.
 
-### Ubuntu
+#### Ubuntu
 
 1. Abra una terminal
 2. Ejecute los siguientes comandos:
@@ -43,7 +42,7 @@ which bison
 which gcc
 ```
 
-### Mac
+#### Mac
 
 1. Abra una terminal
 2. Ejecute los siguientes comandos:
@@ -61,12 +60,12 @@ which bison
 which gcc
 ```
 
-## Ejecución  
+### Ejecución  
 
-### Windows
+#### Windows
 
 Ejecutar el archivo run.bat
 
-### Linux / Unix
+#### Linux / Unix
 
 Ejecutar el archivo run.sh
