@@ -1,4 +1,34 @@
 # Lenguajes y Compiladores
+Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compiladores UNLaM (3663) - 1C 2025.
+
+## Información de la Asignatura
+* **Carrera**: Ingeniería en Informática
+* **Asignatura**: Lenguajes y Compiladores (3663)
+* **Cuatrimestre**: Primer Cuatrimestre
+* **Año**: 2025
+* **Grupo**: 9
+
+## Trayecto - Infraestructura
+
+* **Año académico**: Cuarto Año - Segundo Cuatrimestre
+* **Responsable / Jefe de catedra**: Villareal, Hernan Pablo
+* **Carga horaria semanal**: 4 hs
+* **Carga horaria total**: 64 hs
+* **Modalidad**: Virtual
+* **Correlativa anterior**: Autómatas y Gramática (3657)
+
+## Docentes
+* Carrizo, Daniel Nestor
+* Pin Etchave, Eleazar Patricio
+* Villareal, Hernan Pablo
+
+## Integrantes
+| Apellido/s | Nombre/s |
+|--|--|
+| Castellana Pérez | Julian Alejandro |
+| Galzerano | Matias Nahuel |
+| Ocampo | Nicole Fabiana |
+| Sandoval Vasquez | Juan Leandro |
 
 ## Plantilla para TP Integrador usando Flex y Bison (C)
 
