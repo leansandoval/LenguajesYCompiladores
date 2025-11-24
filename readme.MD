@@ -1,6 +1,8 @@
 # Lenguajes y Compiladores
 Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compiladores UNLaM (3663) - 1C 2025.
 
+[Repositorio de la Materia](https://github.com/Lenguajes-y-Compiladores-UnLaM)
+
 ## Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
 * **Asignatura**: Lenguajes y Compiladores (3663)
