@@ -1,5 +1,5 @@
 # Lenguajes y Compiladores
-Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compiladores UNLaM (3663) - 1C 2025.
+Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compiladores (3663) - 1C 2025 - UNLaM.
 
 [Repositorio de la Materia](https://github.com/Lenguajes-y-Compiladores-UnLaM)
 
