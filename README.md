@@ -82,7 +82,7 @@
 ## Unidad 1 - Perspectiva histórica
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/67554bff-576a-4186-bb65-35d58718a8c5" alt="Primeros Lenguajes de Programación" width="450" />
+  <img src="https://github.com/user-attachments/assets/67554bff-576a-4186-bb65-35d58718a8c5" alt="Primeros Lenguajes de Programación" width="700" />
   <br>
   <sup><em>Evolución e interrelación entre los primeros lenguajes de alto nivel</em></sup>
 </div>
@@ -98,7 +98,7 @@
 ## Unidad 2 - Estructura de los lenguajes de programación
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fd689fa5-0df6-4dc5-9352-29daf2951c06" alt="Compilación vs Interpretación" width="450" />
+  <img src="https://github.com/user-attachments/assets/fd689fa5-0df6-4dc5-9352-29daf2951c06" alt="Compilación vs Interpretación" width="700" />
   <br>
   <sup><em>Diferencias fundamentales entre el proceso de Compilación y la Interpretación</em></sup>
 </div>
@@ -119,23 +119,23 @@
 ## Unidad 3 - Sintaxis
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6eda1673-9e0e-40ac-ab41-9fbfbb83459e" alt="Expresiones Regulares - Parte I" width="450" />
+  <img src="https://github.com/user-attachments/assets/6eda1673-9e0e-40ac-ab41-9fbfbb83459e" alt="Expresiones Regulares - Parte I" width="700" />
   <br>
   <sup><em>Expresiones Regulares y patrones de análisis léxico (Parte I)</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/fd93e222-e5a6-42f6-aafd-49a3d854dcde" alt="Expresiones Regulares - Parte II" width="450" />
+  <img src="https://github.com/user-attachments/assets/fd93e222-e5a6-42f6-aafd-49a3d854dcde" alt="Expresiones Regulares - Parte II" width="700" />
   <br>
   <sup><em>Operadores y construcciones en Expresiones Regulares (Parte II)</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/0d2ad172-1d03-4075-b7ce-41a3efa158b0" alt="Expresiones Regulares - Parte III" width="450" />
+  <img src="https://github.com/user-attachments/assets/0d2ad172-1d03-4075-b7ce-41a3efa158b0" alt="Expresiones Regulares - Parte III" width="700" />
   <br>
   <sup><em>Equivalencias y evaluación de Expresiones Regulares (Parte III)</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/d59a13ae-6ee0-4464-9a49-24c77ac6a952" alt="Expresiones Regulares - Parte IV" width="450" />
+  <img src="https://github.com/user-attachments/assets/d59a13ae-6ee0-4464-9a49-24c77ac6a952" alt="Expresiones Regulares - Parte IV" width="700" />
   <br>
   <sup><em>Transformación a Autómatas Finitos (Parte IV)</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/2d100047-73e8-4493-89ed-fb622b09ff61" alt="Notación BNF" width="450" />
+  <img src="https://github.com/user-attachments/assets/2d100047-73e8-4493-89ed-fb622b09ff61" alt="Notación BNF" width="700" />
   <br>
   <sup><em>Gramáticas libres de contexto y Notación Backus-Naur (BNF)</em></sup>
 </div>
@@ -159,11 +159,11 @@
 ## Unidad 4 - Introducción a los compiladores
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/107f5a69-7ac4-402c-8695-948205f3d27f" alt="¿Como funciona un Compilador?" width="450" />
+  <img src="https://github.com/user-attachments/assets/107f5a69-7ac4-402c-8695-948205f3d27f" alt="¿Como funciona un Compilador?" width="700" />
   <br>
   <sup><em>Fases principales del proceso de traducción de un compilador</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/b9165670-fe74-45df-ab43-a7ef1abcedcb" alt="Desarrollo de Compiladores" width="450" />
+  <img src="https://github.com/user-attachments/assets/b9165670-fe74-45df-ab43-a7ef1abcedcb" alt="Desarrollo de Compiladores" width="700" />
   <br>
   <sup><em>Diagramas T y herramientas de desarrollo para compiladores</em></sup>
 </div>
@@ -189,11 +189,11 @@
 ## Unidad 5 - Estructura general de un compilador
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d8d0f2f0-2ade-4aba-a844-b00878273fa8" alt="Estructura de un Compilador - Versión I" width="450" />
+  <img src="https://github.com/user-attachments/assets/d8d0f2f0-2ade-4aba-a844-b00878273fa8" alt="Estructura de un Compilador - Versión I" width="700" />
   <br>
   <sup><em>Arquitectura global: Frontend vs. Backend en un compilador</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/8927d08f-984c-46b0-8434-66334430bde3" alt="Estructura de un Compilador - Versión II" width="450" />
+  <img src="https://github.com/user-attachments/assets/8927d08f-984c-46b0-8434-66334430bde3" alt="Estructura de un Compilador - Versión II" width="700" />
   <br>
   <sup><em>Interacción entre fases de análisis, síntesis y la tabla de símbolos</em></sup>
 </div>
@@ -210,15 +210,15 @@
 ## Unidad 6 - Analizador Léxico
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d4b97656-f609-4ba7-96a0-23f8330ce900" alt="Analizador Léxico - Mapa Mental" width="450" />
+  <img src="https://github.com/user-attachments/assets/d4b97656-f609-4ba7-96a0-23f8330ce900" alt="Analizador Léxico - Mapa Mental" width="700" />
   <br>
   <sup><em>Mapa mental de conceptos e implementación del Analizador Léxico (Scanner)</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/f1b9a127-129b-4c5c-9f4c-9caf09342116" alt="Función del Analizador Léxico" width="450" />
+  <img src="https://github.com/user-attachments/assets/f1b9a127-129b-4c5c-9f4c-9caf09342116" alt="Función del Analizador Léxico" width="700" />
   <br>
   <sup><em>Flujo de tokens desde el código fuente hacia el analizador sintáctico</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/1ef521de-7a42-40c0-8879-0ab210c2119f" alt="Flujo de Compilación con Flex y Bison" width="450" />
+  <img src="https://github.com/user-attachments/assets/1ef521de-7a42-40c0-8879-0ab210c2119f" alt="Flujo de Compilación con Flex y Bison" width="700" />
   <br>
   <sup><em>Integración y flujo de compilación acoplando Flex (Léxico) y Bison (Sintáctico)</em></sup>
 </div>
@@ -234,7 +234,7 @@
 ## Unidad 7 - Tabla de Símbolos
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/55ceb1a3-b47a-41de-8994-4b1f51ddd96c" alt="Tabla de Símbolos" width="450" />
+  <img src="https://github.com/user-attachments/assets/55ceb1a3-b47a-41de-8994-4b1f51ddd96c" alt="Tabla de Símbolos" width="700" />
   <br>
   <sup><em>Estructura, administración de alcances y almacenamiento de atributos en la Tabla de Símbolos</em></sup>
 </div>
@@ -250,7 +250,7 @@
 ## Unidad 8 - Análisis Sintáctico
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/94d3090d-7427-4401-a4ae-e83d647fc873" alt="Análisis Sintáctico" width="450" />
+  <img src="https://github.com/user-attachments/assets/94d3090d-7427-4401-a4ae-e83d647fc873" alt="Análisis Sintáctico" width="700" />
   <br>
   <sup><em>Algoritmos de Análisis Sintáctico Descendente y Ascendente (LALR / SLR)</em></sup>
 </div>
@@ -274,11 +274,11 @@
 ## Unidad 9 - Árboles Sintácticos
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/60d7dde1-6922-4a46-b222-6e4f98ae3e91" alt="Análisis Semántico" width="450" />
+  <img src="https://github.com/user-attachments/assets/60d7dde1-6922-4a46-b222-6e4f98ae3e91" alt="Análisis Semántico" width="700" />
   <br>
   <sup><em>Verificación de tipos y análisis semántico estático</em></sup>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/07311edf-51f1-4af3-9d27-2eddd98fb5cf" alt="Fase del Análisis Semántico" width="450" />
+  <img src="https://github.com/user-attachments/assets/07311edf-51f1-4af3-9d27-2eddd98fb5cf" alt="Fase del Análisis Semántico" width="700" />
   <br>
   <sup><em>Traducción dirigida por la sintaxis y generación de representaciones intermedias (Tercetos / Cuartetos)</em></sup>
 </div>
@@ -301,7 +301,7 @@
 ## Unidad 10 - Generación de Código
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab39b4cd-6a9a-432e-ba69-26947354ecc2" alt="Generación de Código Assembler" width="450" />
+  <img src="https://github.com/user-attachments/assets/ab39b4cd-6a9a-432e-ba69-26947354ecc2" alt="Generación de Código Assembler" width="700" />
   <br>
   <sup><em>Traducción a código intermedio, relleno con retroceso y generación de ejecutable / Assembler</em></sup>
 </div>
@@ -321,7 +321,7 @@
 ## Unidad 11 - Tipos de Datos
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/146f387d-1752-43e3-8e58-d1da01e65d72" alt="Binding Types" width="450" />
+  <img src="https://github.com/user-attachments/assets/146f387d-1752-43e3-8e58-d1da01e65d72" alt="Binding Types" width="700" />
   <br>
   <sup><em>Conexión de atributos (Binding) y organización de memoria en tiempo de ejecución</em></sup>
 </div>
