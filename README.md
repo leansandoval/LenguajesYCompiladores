@@ -46,20 +46,37 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Procesamiento de los lenguajes.
 * Interpretación.
 * Compilación.
-* Lenguajes estáticos.
-* Lenguajes basados en la pila.
-* Lenguajes dinámicos.
+* Lenguajes
+    * Estáticos.
+    * Basados en la pila.
+    * Dinámicos.
 
 ## Unidad 3 - Sintaxis.
-* Reglas léxicas.
-* Reglas gramaticales.
+<img width="700" alt="Expresiones Regulares - Parte I" src="https://github.com/user-attachments/assets/6eda1673-9e0e-40ac-ab41-9fbfbb83459e" />
+
+<img width="700" alt="Expresiones Regulares - Parte II" src="https://github.com/user-attachments/assets/fd93e222-e5a6-42f6-aafd-49a3d854dcde" />
+
+<img width="700" alt="Expresiones Regulares - Parte III" src="https://github.com/user-attachments/assets/0d2ad172-1d03-4075-b7ce-41a3efa158b0" />
+
+<img width="700" alt="Expresiones Regulares - Parte IV" src="https://github.com/user-attachments/assets/d59a13ae-6ee0-4464-9a49-24c77ac6a952" />
+
+<img width="700" alt="Notación BNF" src="https://github.com/user-attachments/assets/2d100047-73e8-4493-89ed-fb622b09ff61" />
+
+* Reglas
+    * Léxicas.
+    * Gramaticales.
 * Metalenguajes.
 * BNF.
 * Árbol de Parsing.
 * Impacto de la recursividad sobre la evaluación de expresiones.
-* Influencia de la sintaxis sobre la claridad: formato de las instrucciones, comentarios, puntuación.
+* Influencia de la sintaxis sobre la claridad
+    * Formato de las instrucciones.
+    * Comentarios.
+    * Puntuación.
 
 ## Unidad 4 - Introducción a los compiladores.
+<img width="700" alt="¿Como funciona un Compilador?" src="https://github.com/user-attachments/assets/107f5a69-7ac4-402c-8695-948205f3d27f" />
+
 <img width="700" alt="Desarrollo de Compiladores" src="https://github.com/user-attachments/assets/b9165670-fe74-45df-ab43-a7ef1abcedcb" />
 
 * Compilación e interpretación.
@@ -103,13 +120,15 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 ## Unidad 8 - Análisis Sintáctico.
 <img width="700" alt="Análisis Sintáctico" src="https://github.com/user-attachments/assets/94d3090d-7427-4401-a4ae-e83d647fc873" />
 
-* Análisis sintáctico descendente.
-* Análisis sintáctico ascendente.
+* Análisis sintáctico
+    * Descendente.
+        * Predictivo.
+    * Ascendente.
 * Retrocesos.
 * Detección y reporte de errores.
-* Análisis sintáctico descendente predictivo.
-* Conflictos desplazamiento-reducción.
-* Conflictos reducción-reducción.
+* Conflictos
+    * Desplazamiento-reducción.
+    * Reducción-reducción.
 * Utilización de un analizador sintáctico.
 * Bison/Yacc.
 
@@ -121,23 +140,32 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Traducción guiada por la sintaxis.
 * Semántica estática.
 * Comprobación de tipos.
-* Grafo de las alternativas en la generación de código: árbol sintáctico, tercetos, tercetos indirectos, cuartetos, notación polaca inversa.
+* Grafo de las alternativas en la generación de código
+    * Árbol sintáctico.
+    * Tercetos.
+    * Tercetos indirectos.
+    * Cuartetos.
+    * Notación polaca inversa.
 * Caminos posibles. 
 
 ## Unidad 10 - Generación de Código.
 <img width="1122" height="1402" alt="722132525_122124909963242489_271606762585628250_n" src="https://github.com/user-attachments/assets/ab39b4cd-6a9a-432e-ba69-26947354ecc2" />
 
-* Generación de código intermedio.
-* Generación de código ejecutable.
+* Generación de código
+    * Intermedio.
+    * Ejecutable.
 * Relleno con retroceso.
-* Nociones de manejo de errores.
-* Nociones de optimización de código.
+* Nociones
+    * Manejo de errores.
+    * Optimización de código.
 
 ## Unidad 11 - Tipos de Datos.
 * Su tratamiento en compiladores.
 * El concepto de binding.
 * Entidades y atributos.
-* Binding dinámico y binding estático.
+* Binding
+    * Dinámico.
+    * Estático.
 * Variables.
 * Binding de alcance, de almacenamiento, de valor y de tipo.
 * Binding de tipo e interpretación.
