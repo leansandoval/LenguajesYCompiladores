@@ -33,11 +33,15 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 | Sandoval Vasquez | Juan Leandro |
 
 ## Unidad 1 - Perspectiva histórica.
+<img width="700" alt="Primeros Lenguajes de Programación" src="https://github.com/user-attachments/assets/67554bff-576a-4186-bb65-35d58718a8c5" />
+
 * Primeros lenguajes de alto nivel.
 * Relaciones entre los diferentes lenguajes de programación.
 * Diagrama de interrelación entre los diferentes lenguajes, basado en la influencia de unos en otros.
 
 ## Unidad 2 - Estructura de los lenguajes de programación.
+<img width="700" alt="Compilación vs Interpretación" src="https://github.com/user-attachments/assets/fd689fa5-0df6-4dc5-9352-29daf2951c06" />
+
 * Sintaxis, semántica y pragmática.
 * Procesamiento de los lenguajes.
 * Interpretación.
@@ -56,6 +60,8 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Influencia de la sintaxis sobre la claridad: formato de las instrucciones, comentarios, puntuación.
 
 ## Unidad 4 - Introducción a los compiladores.
+<img width="700" alt="Desarrollo de Compiladores" src="https://github.com/user-attachments/assets/b9165670-fe74-45df-ab43-a7ef1abcedcb" />
+
 * Compilación e interpretación.
 * Ensambladores y compiladores.
 * Cantidad de pasadas.
@@ -79,16 +85,24 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 ## Unidad 6 - Analizador Léxico.
 <img width="700" alt="Analizador Léxico - Mapa Mental" src="https://github.com/user-attachments/assets/d4b97656-f609-4ba7-96a0-23f8330ce900" />
 
+<img width="700" alt="Función del Analizador Léxico" src="https://github.com/user-attachments/assets/f1b9a127-129b-4c5c-9f4c-9caf09342116" />
+
+<img width="700" alt="Flujo de Compilación con Flex y Bison" src="https://github.com/user-attachments/assets/1ef521de-7a42-40c0-8879-0ab210c2119f" />
+
 * Construcción de autómatas finitos a partir de gramáticas regulares.
 * Implementación de analizadores léxicos mediante estructuras de control clásicas y mediante arreglos de punteros. 
 * Utilización de Flex.
 
 ## Unidad 7 - Tabla de Símbolos.
+<img width="700" alt="Tabla de Símbolos" src="https://github.com/user-attachments/assets/55ceb1a3-b47a-41de-8994-4b1f51ddd96c" />
+
 * Problemas de alcance.
 * Relación entre la estructura en tiempo de ejecución y la tabla de símbolos.
 * Etapas en la construcción de la tabla de símbolos.
 
 ## Unidad 8 - Análisis Sintáctico.
+<img width="700" alt="Análisis Sintáctico" src="https://github.com/user-attachments/assets/94d3090d-7427-4401-a4ae-e83d647fc873" />
+
 * Análisis sintáctico descendente.
 * Análisis sintáctico ascendente.
 * Retrocesos.
@@ -99,14 +113,20 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Utilización de un analizador sintáctico.
 * Bison/Yacc.
 
-## Unidad 9 - Árboles sintácticos.
+## Unidad 9 - Árboles Sintácticos.
+<img width="700" alt="Análisis Semántico" src="https://github.com/user-attachments/assets/60d7dde1-6922-4a46-b222-6e4f98ae3e91" />
+
+<img width="700" alt="Fase del Análisis Semántico" src="https://github.com/user-attachments/assets/07311edf-51f1-4af3-9d27-2eddd98fb5cf" />
+
 * Traducción guiada por la sintaxis.
 * Semántica estática.
 * Comprobación de tipos.
 * Grafo de las alternativas en la generación de código: árbol sintáctico, tercetos, tercetos indirectos, cuartetos, notación polaca inversa.
 * Caminos posibles. 
 
-## Unidad 10 - Generación de código.
+## Unidad 10 - Generación de Código.
+<img width="1122" height="1402" alt="722132525_122124909963242489_271606762585628250_n" src="https://github.com/user-attachments/assets/ab39b4cd-6a9a-432e-ba69-26947354ecc2" />
+
 * Generación de código intermedio.
 * Generación de código ejecutable.
 * Relleno con retroceso.
