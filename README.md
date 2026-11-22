@@ -38,8 +38,6 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Diagrama de interrelación entre los diferentes lenguajes, basado en la influencia de unos en otros.
 
 ## Unidad 2 - Estructura de los lenguajes de programación.
-
-
 * Sintaxis, semántica y pragmática.
 * Procesamiento de los lenguajes.
 * Interpretación.
@@ -78,17 +76,19 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Tabla de palabras reservadas.
 * Mecanismo de acceso.
 
-## Unidad 6 - Analizador léxico.
+## Unidad 6 - Analizador Léxico.
+<img width="700" alt="Analizador Léxico - Mapa Mental" src="https://github.com/user-attachments/assets/d4b97656-f609-4ba7-96a0-23f8330ce900" />
+
 * Construcción de autómatas finitos a partir de gramáticas regulares.
 * Implementación de analizadores léxicos mediante estructuras de control clásicas y mediante arreglos de punteros. 
 * Utilización de Flex.
 
-## Unidad 7 - Tabla de símbolos.
+## Unidad 7 - Tabla de Símbolos.
 * Problemas de alcance.
 * Relación entre la estructura en tiempo de ejecución y la tabla de símbolos.
 * Etapas en la construcción de la tabla de símbolos.
 
-## Unidad 8 - Análisis sintáctico.
+## Unidad 8 - Análisis Sintáctico.
 * Análisis sintáctico descendente.
 * Análisis sintáctico ascendente.
 * Retrocesos.
