@@ -47,9 +47,9 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Interpretación.
 * Compilación.
 * Lenguajes
-    * Estáticos.
-    * Basados en la pila.
-    * Dinámicos.
+  * Estáticos.
+  * Basados en la pila.
+  * Dinámicos.
 
 ## Unidad 3 - Sintaxis.
 <img width="700" alt="Expresiones Regulares - Parte I" src="https://github.com/user-attachments/assets/6eda1673-9e0e-40ac-ab41-9fbfbb83459e" />
@@ -63,16 +63,16 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 <img width="700" alt="Notación BNF" src="https://github.com/user-attachments/assets/2d100047-73e8-4493-89ed-fb622b09ff61" />
 
 * Reglas
-    * Léxicas.
-    * Gramaticales.
+  * Léxicas.
+  * Gramaticales.
 * Metalenguajes.
 * BNF.
 * Árbol de Parsing.
 * Impacto de la recursividad sobre la evaluación de expresiones.
 * Influencia de la sintaxis sobre la claridad
-    * Formato de las instrucciones.
-    * Comentarios.
-    * Puntuación.
+  * Formato de las instrucciones.
+  * Comentarios.
+  * Puntuación.
 
 ## Unidad 4 - Introducción a los compiladores.
 <img width="700" alt="¿Como funciona un Compilador?" src="https://github.com/user-attachments/assets/107f5a69-7ac4-402c-8695-948205f3d27f" />
@@ -94,6 +94,10 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Diagramas T.
 
 ## Unidad 5 - Estructura general de un compilador.
+<img width="700" alt="Estructura de un Compilador - Versión I" src="https://github.com/user-attachments/assets/d8d0f2f0-2ade-4aba-a844-b00878273fa8" />
+
+<img width="700" alt="Estructura de un Compilador - Versión II" src="https://github.com/user-attachments/assets/8927d08f-984c-46b0-8434-66334430bde3" />
+
 * Relación entre los tipos de gramáticas y la estructura de los compiladores.
 * Tabla de símbolos.
 * Tabla de palabras reservadas.
@@ -121,14 +125,14 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 <img width="700" alt="Análisis Sintáctico" src="https://github.com/user-attachments/assets/94d3090d-7427-4401-a4ae-e83d647fc873" />
 
 * Análisis sintáctico
-    * Descendente.
-        * Predictivo.
-    * Ascendente.
+  * Descendente.
+    * Predictivo.
+  * Ascendente.
 * Retrocesos.
 * Detección y reporte de errores.
 * Conflictos
-    * Desplazamiento-reducción.
-    * Reducción-reducción.
+  * Desplazamiento-reducción.
+  * Reducción-reducción.
 * Utilización de un analizador sintáctico.
 * Bison/Yacc.
 
@@ -141,33 +145,39 @@ Repositorio del Trabajo Practico Compilador de la materia Lenguajes y Compilador
 * Semántica estática.
 * Comprobación de tipos.
 * Grafo de las alternativas en la generación de código
-    * Árbol sintáctico.
-    * Tercetos.
-    * Tercetos indirectos.
-    * Cuartetos.
-    * Notación polaca inversa.
+  * Árbol sintáctico.
+  * Tercetos.
+  * Tercetos indirectos.
+  * Cuartetos.
+  * Notación polaca inversa.
 * Caminos posibles. 
 
 ## Unidad 10 - Generación de Código.
 <img width="1122" height="1402" alt="722132525_122124909963242489_271606762585628250_n" src="https://github.com/user-attachments/assets/ab39b4cd-6a9a-432e-ba69-26947354ecc2" />
 
 * Generación de código
-    * Intermedio.
-    * Ejecutable.
+  * Intermedio.
+  * Ejecutable.
 * Relleno con retroceso.
 * Nociones
-    * Manejo de errores.
-    * Optimización de código.
+  * Manejo de errores.
+  * Optimización de código.
 
 ## Unidad 11 - Tipos de Datos.
+<img width="700" alt="Binding Types" src="https://github.com/user-attachments/assets/146f387d-1752-43e3-8e58-d1da01e65d72" />
+
 * Su tratamiento en compiladores.
 * El concepto de binding.
 * Entidades y atributos.
 * Binding
-    * Dinámico.
-    * Estático.
+  * Dinámico.
+  * Estático.
 * Variables.
-* Binding de alcance, de almacenamiento, de valor y de tipo.
+* Binding de
+  * Alcance.
+  * Almacenamiento.
+  * Valor.
+  * Tipo.
 * Binding de tipo e interpretación.
 * Unidades de programa.
 * Estructura en tiempo de ejecución.
