@@ -34,8 +34,9 @@
 
 ---
 
-🔗 **[Repositorio Oficial en GitHub](https://github.com/leansandoval/LenguajesYCompiladores)**  
-🔗 **[Repositorio de la Cátedra](https://github.com/Lenguajes-y-Compiladores-UnLaM)**
+<div align="center">
+  <a href="https://github.com/Lenguajes-y-Compiladores-UnLaM" target="_blank">🔗 <strong>Repositorio de la Cátedra</strong></a>
+</div>
 
 ---
 
